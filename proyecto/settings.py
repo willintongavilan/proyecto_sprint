@@ -100,9 +100,9 @@ WSGI_APPLICATION = 'proyecto.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'dmf2j7og4doqp',
-        'USER': 'hmiojkfvyctbqt',
-        'PASSWORD': 'b0c24afb1d611a461cd3300e5996fbda7639c40b13a9328d786a63803e18c8b2',
+        'NAME': 'd3nv4d5u19jttc',
+        'USER': 'sauntnzxeayuxq',
+        'PASSWORD': 'e70c6d81b4c7c783ef5cf83351f30823fcdbfa14bd4b76bd8ea14481d920164a',
         'HOST': 'ec2-52-207-90-231.compute-1.amazonaws.com',
         'PORT': '5432'
     }
@@ -149,3 +149,5 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
